@@ -1,0 +1,4 @@
+1 - Abrir o folder challenge e não o challenge-nt
+2 - Abrir o arquivo docker-compose e executar os services
+3 - Executar a request via postman
+4 - Conferir na base de dados
